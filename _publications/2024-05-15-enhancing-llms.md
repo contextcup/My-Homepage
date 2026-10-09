@@ -13,3 +13,5 @@ code_status: 'Released'
 codeurl: 'https://github.com/contextcup/enhancing-llms'
 citation: 'John Smith, et al. (2024). "Enhancing Large Language Models with Advanced Fine-Tuning Techniques." <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</i>.'
 ---
+
+Code: Released ([GitHub](https://github.com/contextcup/enhancing-llms)).

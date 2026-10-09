@@ -12,3 +12,5 @@ bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem-workshop.bib'
 code_status: 'Not released'
 citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need for a workshop." <i>Accepted at COML Workshop on Large Language Models (COMLW 2025)</i>.'
 ---
+
+Code: Not released.

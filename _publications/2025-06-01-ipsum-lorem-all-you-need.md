@@ -13,3 +13,5 @@ code_status: 'Released'
 codeurl: 'https://github.com/contextcup/ipsum-lorem-all-you-need'
 citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Accepted at COML 2025 - Conference on Machine Learning (oral presentation)</i>.'
 ---
+
+Code: Released ([GitHub](https://github.com/contextcup/ipsum-lorem-all-you-need)).

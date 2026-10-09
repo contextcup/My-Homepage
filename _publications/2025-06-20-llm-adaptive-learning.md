@@ -13,3 +13,5 @@ code_status: 'Released'
 codeurl: 'https://github.com/contextcup/llm-adaptive-learning'
 citation: 'John Smith, et al. (2025). "Adaptive Learning Strategies for Large Language Models in Dynamic Environments." <i>Accepted at ICML 2025 - International Conference on Machine Learning</i>.'
 ---
+
+Code: Released ([GitHub](https://github.com/contextcup/llm-adaptive-learning)).
